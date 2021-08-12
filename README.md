@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/bayuwira/bayuwira/master/assets/banner.jpg)
+![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/bayuwira/bayuwira/master/assets/banner.png)
 
 <img  alt="Night Coding"  src="./assets/Hand%20Wave.gif"  width='40'  align="left"/><h2>Hey there! I'm Bayu Wira (Yura) !</h2>
 

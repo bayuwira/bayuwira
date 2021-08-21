@@ -18,7 +18,7 @@
 
 ✉️ &nbsp;You can shoot me an email at bayuwira1718@gmail.com! I'll try to respond as soon as I can.
 
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/13Qndhbd73JVndRjnQhbB1YGvK363cnsH/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1UjE4WvYXfEkYNixhwttcH-VnpgbXQ_cv/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img  alt="Night Coding"  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  align="right"/>
 

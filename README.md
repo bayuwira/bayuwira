@@ -10,7 +10,7 @@
 
 🎓 &nbsp;I'm a bachelor degree Informatic Engineering at the Udayana University.
 
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Analytics, and Business.
 
 ✍️ &nbsp;In my free time, I do an Online Course and browsing tehe~.
 
